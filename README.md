@@ -21,6 +21,7 @@ Create a .env file in the root directory
 Add your OpenWeatherMap API key:
 
 VITE_APP_ID=your_openweathermap_api_key
+
 Run the app
 
 npm run dev
